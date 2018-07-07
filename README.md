@@ -9,9 +9,7 @@ This project implements the paper <a href="https://deepmind.com/research/dqn/">H
 - <a href="https://ai.intel.com/demystifying-deep-reinforcement-learning/">Demystifying Deep Reinforcement Learning</a>
 
 # Result
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<img src="/Demo/demo.mp4" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 
 # Reference
 - <a href="https://github.com/transedward/pytorch-dqn">transedward/pytorch-dqn</a>
