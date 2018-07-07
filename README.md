@@ -12,6 +12,6 @@ This project implements the paper <a href="https://deepmind.com/research/dqn/">H
 <p><a target="_blank" href="/Demo/demo.mp4"><img src="/Demo/demo.mp4" alt="" style="max-width:100%;"></a></p>
 
 # Reference
-<a href="https://github.com/transedward/pytorch-dqn">transedward/pytorch-dqn</a>
-<a href="https://github.com/SSARCandy/pytorch-dqn">SSARCandy/pytorch-dqn</a>
-<a href="https://github.com/nailo2c/dqn-mario">nailo2c/dqn-mario</a>
+- <a href="https://github.com/transedward/pytorch-dqn">transedward/pytorch-dqn</a>
+- <a href="https://github.com/SSARCandy/pytorch-dqn">SSARCandy/pytorch-dqn</a>
+- <a href="https://github.com/nailo2c/dqn-mario">nailo2c/dqn-mario</a>
